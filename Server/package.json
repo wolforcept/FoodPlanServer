@@ -1,0 +1,14 @@
+{
+  "name": "foodplanserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "wolforce",
+  "license": "SEE LICENSE IN license.txt",
+  "dependencies": {
+    "redis": "^4.7.0"
+  }
+}
